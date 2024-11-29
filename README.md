@@ -1,1 +1,1 @@
-Analyis of Developer survery conducted by Stack Overflow.
+Analysis of Developer survery conducted by Stack Overflow.
